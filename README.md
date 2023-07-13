@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Amitesh  </h1>
 
-# 💫 About Me:
+### 💫 About Me:
 🔭 Specializing in cloud computing, my skills comply.<br>🌱 With blockchain's power, I try to secure the chain,<br>💻 Front-end projects, I craft, to entertain.<br>⚡Enriching DSA, I conquer complexities, and my knowledge multiplies.
 
 
